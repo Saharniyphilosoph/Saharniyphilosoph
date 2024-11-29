@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saharniyphilosoph
-- 👀 I’m interested in robotics and computer vision
-- 🌱 I’m currently learning humanoid robotics
+- 👀 I’m interested in robotics, computer vision and machine lerning
+- 🌱 I am currently growing as an Embedded AI Developer
 
 <!---
 Saharniyphilosoph/Saharniyphilosoph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
