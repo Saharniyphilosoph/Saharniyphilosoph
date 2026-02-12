@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saharniyphilosoph
-- 👀 I’m interested in robotics, computer vision and machine lerning
+- 👀 I’m interested in robotics, computer vision and machine learning
 - 🌱 I am currently growing as an Embedded AI Developer
 
 <!---
